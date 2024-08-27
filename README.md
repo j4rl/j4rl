@@ -7,4 +7,4 @@ I'm a computer science teacher in Sweden which teaches web development.
 - PHP
 - SQL
 - JQuery
-- ...and some other things 😄
+- ...and some other things like Python and stuff 😄
