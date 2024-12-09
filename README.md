@@ -1,4 +1,4 @@
-<img src="Myself.jpg" style="float:right; border:7px solid white;" width="200px">
+<img src="Myself_transparent.png" style="float:right" width="200px">
 <h1>Charlie Jarl</h1>
 <p>I'm a computer science teacher in Sweden which teaches web development.
 <ul>
