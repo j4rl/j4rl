@@ -9,6 +9,6 @@ I'm a computer science teacher in Sweden which teaches web development.
 - JQuery
 - ...and some other things like Python and stuff 😄
 
-## Sidor med exempel PHP och JavaScript (på engelska)
+## Repositories with examples of PHP and JavaScript
 - [JavaScript examples](https://github.com/j4rl/js_ex)
 - [PHP examples](https://github.com/j4rl/php_ex)
