@@ -1,6 +1,6 @@
 <table style="border:0px"><tr>
   <td>
-<h1 style="text-shadow:0px 0px 15px 5px yellow">Charlie Jarl</h1>
+<h1 style="text-shadow:0px 0px 15px yellow">Charlie Jarl</h1>
 <p>I'm a computer science teacher in Sweden which teaches web development.
 <ul>
   <li>HTML</li>
