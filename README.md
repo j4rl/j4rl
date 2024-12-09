@@ -1,4 +1,4 @@
-<img src="Myself.jpg" style="float:right; border:7px solid white;">
+<img src="Myself.jpg" style="float:right; border:7px solid white;" width="200px">
 # Charlie Jarl
 ## Möckelngymnasiet
 I'm a computer science teacher in Sweden which teaches web development.
