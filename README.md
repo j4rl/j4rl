@@ -1,5 +1,5 @@
-<div style="display:flex"><div>
-
+<table border="0"><tr>
+  <td>
 <h1>Charlie Jarl</h1>
 <p>I'm a computer science teacher in Sweden which teaches web development.
 <ul>
@@ -12,9 +12,10 @@
   <li>...and some other things like Python and stuff 😄</li>
 </ul>
 </p>
-</div>
+</td><td>
 <img src="Myself_transparent.png" style="float:right" width="200px">
-</div>
+  </td>
+</tr></table>
 
 ## Repositories with examples
 - [JavaScript examples](https://github.com/j4rl/js_ex)
