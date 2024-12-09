@@ -1,4 +1,4 @@
-<table border="0"><tr>
+<table style="border:0px"><tr>
   <td>
 <h1>Charlie Jarl</h1>
 <p>I'm a computer science teacher in Sweden which teaches web development.
